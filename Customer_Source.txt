@@ -1,0 +1,8 @@
+CID,CFNAME,CLNAME,ADDR,PHONE
+1001,Maaz,Tariq,Karachi,0321123456
+1002,Mohammad Sualeh,Ali,Lahore,892739293
+1003,Usman,Khan,Islamabad,0434343223
+1004,Abdul Razzaq,Soomro,Hyderabad,0333123456
+1005,Danysh,Syed,Peshawar,0236286382
+1006,Alina,Ahmed,Quetta,0213456789
+1007,Uzair, Rafique,California,3949033483
